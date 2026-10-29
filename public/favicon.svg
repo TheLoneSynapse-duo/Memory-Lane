@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#C97B3A"/>
+  <!-- Simple road/lane path representing Memory Lane -->
+  <path d="M16 6 C16 6 10 12 10 22" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M16 6 C16 6 22 12 22 22" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Dashed centre line -->
+  <line x1="16" y1="9" x2="16" y2="13" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="16" y1="16" x2="16" y2="20" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
